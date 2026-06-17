@@ -32,11 +32,11 @@ This repository contains a comprehensive quantitative research project focused o
 ## 💡 Key Insights & Results
 
 ### Model Performance & Trend Visualization
-![Forecasting Graph](<img width="1920" height="1080" alt="forecast_graph" src="https://github.com/user-attachments/assets/8046c1b4-f79f-43ab-99c8-2cc62d8c08b5" />)
+![Forecasting Graph](forecast_graph.png)
 *Comparison of Actual vs. Predicted PTT Stock Prices across all 6 models.*
 
 ### Error Metrics & Evaluation
-![Evaluation Table](<img width="1920" height="1080" alt="evaluation_table" src="https://github.com/user-attachments/assets/24734ec5-d01b-49aa-9537-17a89f6bd02d" />)
+![Evaluation Table](evaluation_table.png)
 
 * **The Winner (Champion Model):** The hybrid **Improved ARIMA - Improved ARIMAX** model emerged as the most efficient and robust framework, achieving the lowest forecasting error with a **MAPE of 1.3854%** and a superior goodness-of-fit with an **R-Squared of 99.5725%**.
 * **Significant Exogenous Factors:** The multivariate regression layer identified that PTT's stock price was heavily influenced by the following key factors (ordered by statistical impact):
